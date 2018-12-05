@@ -18,6 +18,7 @@ Downloading dependencies
 
 -> Installing BananaLib (1.0)
   - Running pre install hooks
+  - Linking headers
 
 Generating Pods project
   - Creating Pods project
@@ -27,7 +28,6 @@ Generating Pods project
     - Adding libraries
     - Adding resources
     - Adding development pod helper files
-    - Linking headers
   - Installing Pod Targets
     - Installing target `BananaLib` iOS 8.0
       - Copying module map file to `Pods/Target Support Files/BananaLib/BananaLib.modulemap`

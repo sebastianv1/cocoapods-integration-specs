@@ -23,6 +23,7 @@ Downloading dependencies
      Cloning into 'PROJECT/Pods/Moment'...
    $ GIT_BIN -C PROJECT/Pods/Moment checkout --quiet 39f21fee0cef410c6d89c9fa94ff5638527ef7bc
   - Running pre install hooks
+  - Linking headers
 
 Generating Pods project
   - Creating Pods project
@@ -31,7 +32,6 @@ Generating Pods project
     - Adding frameworks
     - Adding libraries
     - Adding resources
-    - Linking headers
   - Installing Pod Targets
     - Installing target `Moment` iOS 4.3
       - Generating dummy source at `Pods/Target Support Files/Moment/Moment-dummy.m`

@@ -26,6 +26,7 @@ Downloading dependencies
 
 -> Using Reachability2 (3.1.0)
   - Running pre install hooks
+  - Linking headers
 
 Generating Pods project
   - Creating Pods project
@@ -36,7 +37,6 @@ Generating Pods project
     - Adding libraries
     - Adding resources
     - Adding development pod helper files
-    - Linking headers
   - Creating Reachability2 project
   - Installing files into Reachability2 project
     - Adding source files
@@ -44,7 +44,6 @@ Generating Pods project
     - Adding libraries
     - Adding resources
     - Adding development pod helper files
-    - Linking headers
   - Installing Pod Targets
     - Installing target `Reachability` iOS 4.3
       - Generating dummy source at `Pods/Target Support Files/Reachability/Reachability-dummy.m`

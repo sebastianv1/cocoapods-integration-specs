@@ -34,6 +34,7 @@ Downloading dependencies
        git checkout -b new_branch_name
 
   - Running pre install hooks
+  - Linking headers
 
 Generating Pods project
   - Creating Pods project
@@ -42,7 +43,6 @@ Generating Pods project
     - Adding frameworks
     - Adding libraries
     - Adding resources
-    - Linking headers
   - Installing Pod Targets
     - Installing target `Reachability` iOS 4.3
       - Generating dummy source at `Pods/Target Support Files/Reachability/Reachability-dummy.m`

@@ -40,6 +40,7 @@ Downloading dependencies
 
 -> Using SEGModules (0.1.0)
   - Running pre install hooks
+  - Linking headers
 
 Generating Pods project
   - Creating Pods project
@@ -48,7 +49,6 @@ Generating Pods project
     - Adding frameworks
     - Adding libraries
     - Adding resources
-    - Linking headers
   - Installing Pod Targets
     - Installing target `AFNetworking` iOS 6.0
       - Generating dummy source at `Pods/Target Support Files/AFNetworking/AFNetworking-dummy.m`

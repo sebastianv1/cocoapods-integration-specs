@@ -24,6 +24,7 @@ Downloading dependencies
   $ GIT_BIN -C PROJECT/Pods/Test rev-parse HEAD
   919903db28535c3f387c4bbaa6a3feae4428e993
   - Running pre install hooks
+  - Linking headers
 
 Generating Pods project
   - Creating Pods project
@@ -32,7 +33,6 @@ Generating Pods project
     - Adding frameworks
     - Adding libraries
     - Adding resources
-    - Linking headers
   - Installing Pod Targets
     - Installing target `Test` iOS 5.0
       - Generating dummy source at `Pods/Target Support Files/Test/Test-dummy.m`

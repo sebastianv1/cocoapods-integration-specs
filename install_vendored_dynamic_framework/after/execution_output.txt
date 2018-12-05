@@ -995,6 +995,7 @@ Downloading dependencies
 
 -> Installing RealmSwift (0.94.1)
   - Running pre install hooks
+  - Linking headers
 
 Generating Pods project
   - Creating Pods project
@@ -1003,7 +1004,6 @@ Generating Pods project
     - Adding frameworks
     - Adding libraries
     - Adding resources
-    - Linking headers
   - Installing Pod Targets
     - Installing target `Realm` iOS 8.0
     - Installing target `RealmSwift` iOS 8.0

@@ -33,6 +33,7 @@ Downloading dependencies
 
 -> Installing SwiftPod (0.0.1)
   - Running pre install hooks
+  - Linking headers
 
 Generating Pods project
   - Creating Pods project
@@ -42,7 +43,6 @@ Generating Pods project
     - Adding libraries
     - Adding resources
     - Adding development pod helper files
-    - Linking headers
   - Installing Pod Targets
     - Installing target `CustomModuleMapPod-framework-iOS` iOS 9.0
       - Generating Info.plist file at `Pods/Target Support Files/CustomModuleMapPod-framework-iOS/CustomModuleMapPod-framework-iOS-Unit-Tests-Info.plist`
